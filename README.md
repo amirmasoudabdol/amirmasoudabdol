@@ -1,7 +1,7 @@
 ### Hi, I'm Amir! 👋
 
 - I'm currently working on SAM!
-- I'm learning advanced C++!
+- I'm learning more advanced C++!
 - and I'm open-sourcing some of my side-projects, e.g., [{preferably}](https://github.com/amirmasoudabdol/preferably), [{sfthemes}](https://github.com/amirmasoudabdol/sfthemes).
 
 <!--
