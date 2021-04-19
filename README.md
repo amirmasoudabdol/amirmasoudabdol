@@ -4,7 +4,7 @@
 - I'm learning more about Advanced C++ practices!
 - and I'm cleaning up, and open-sourcing some of my side-projects, e.g., [{preferably}](https://github.com/amirmasoudabdol/preferably), [{sfthemes}](https://github.com/amirmasoudabdol/sfthemes).
 
-**You can support my work, either by sponsoring my on GitHub, or making a one-time donation!** 💖
+**You can support my work, either by sponsoring me on GitHub, or making a one-time donation!** 💖
 
 <!--
 **amirmasoudabdol/amirmasoudabdol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
