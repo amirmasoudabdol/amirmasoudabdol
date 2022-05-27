@@ -1,6 +1,7 @@
 ### Hi, I'm Amir! 👋
 
-- I'm learning more about Advanced C++ practices!
+- I'm available for hire!
+- I'm learning more and more about Advanced C++ practices, and build systems!
 - and I'm cleaning up, and open-sourcing some of my side-projects, e.g., [{preferably}](https://github.com/amirmasoudabdol/preferably), [{sfthemes}](https://github.com/amirmasoudabdol/sfthemes).
 
 **You can support my work, either by sponsoring me on GitHub, or making a one-time donation!** 💖
