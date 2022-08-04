@@ -8,7 +8,7 @@
   - C/C++
     - [SAM](https://github.com/amirmasoudabdol/sam)
     - [BAARAAN](https://github.com/amirmasoudabdol/baaraan)
-    - [NSGA](https://github.com/amirmasoudabdol/nsga2), [AMOSA](https://github.com/amirmasoudabdol/amosa)
+    - [NSGA](https://github.com/amirmasoudabdol/nsga2), [AMOSA](https://github.com/amirmasoudabdol/amosa), [eSS](https://github.com/amirmasoudabdol/eSS)
   - R 
     - [{preferably}](https://github.com/amirmasoudabdol/preferably)
     - [{sfthemes}](https://github.com/amirmasoudabdol/sfthemes)
